@@ -1,6 +1,6 @@
 # Hey there! 🪄 
 
-I'm Urvee, a UI/UX designer & web developer based in India.  
+I'm **Urvashi**, a UI/UX designer & web developer based in India.  
 
 I turn ideas into interactive, human-centered experiences — from wireframes to live websites.  
 
