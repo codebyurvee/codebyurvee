@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey there! 🪄 
 
-<!--
-**codebyurvee/codebyurvee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Krishna, a UI/UX designer & web developer based in India.  
 
-Here are some ideas to get you started:
+I turn ideas into interactive, human-centered experiences — from wireframes to live websites.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current stack: HTML, CSS, JavaScript, React, and Figma.  
+
+I love building things that feel good to use and look great doing it.  
+
+Fun facts:  
+- I’m a hackathon enthusiast  
+- I design with empathy, code with clarity  
+- always exoerimenting with new creative coding tools
