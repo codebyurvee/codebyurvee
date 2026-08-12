@@ -1,2 +1,2 @@
 # Hey there! I am Urvashi Verma
-BCA Student | Python Learner | Exploring Machine Learning & Data Science | Building Projects and Solving Problems Daily
+BCA Student | Python developer | AI/ML Enthusiast | Building practical AI & Full-Stack Applications
