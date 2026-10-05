@@ -13,8 +13,6 @@ Tools: Git · GitHub · VS Code
 
 🚀 Featured Projects
 
-- 🤖 "Aether" (https://github.com/codebyurvee/Aether) — AI Engineer productivity platform
-- 🎵 "AI Music Recommendation" (https://github.com/codebyurvee/AI-Music-Recommendation-System) — Music recommendation system
 - 🧠 "AI Virtual Assistant" (https://github.com/codebyurvee/AI-Virtual_assistant) — Python-based AI assistant
 - 📊 "AI Attendance System" (https://github.com/codebyurvee/AI-Attendance-System) — Automated attendance project
 - 📄 "Resume Builder" (https://github.com/codebyurvee/Resume_Builder) — Web-based resume builder
